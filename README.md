@@ -1,4 +1,4 @@
-# Conflit
+REMOTE
 quelque
 ligne
 de
