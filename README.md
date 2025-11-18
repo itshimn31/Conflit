@@ -1,4 +1,4 @@
-# Conflit
+LOCAL
 quelque
 ligne
 de
